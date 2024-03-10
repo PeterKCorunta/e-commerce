@@ -13,3 +13,5 @@ export const testimonialpics = [
     {id:5, pic: pic5, desc:"Fifth time using this app, and it's cool!!!", author:"Gene Jackman"},
     {id:6, pic: pic6, desc:"Sixth time using this app, and it's cool!!!", author:"Paul Jones"},
 ]
+
+// This is known as the testimonial array object
