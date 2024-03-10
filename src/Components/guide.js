@@ -1,0 +1,15 @@
+export const guide = [
+    {id:0, question:"What is MyBill?", answer:[{id_tip:0, tip:"MyBill is an e-commerce app designed to help manage your online purchase bills"}]},
+    {id:1, question:"How does MyBill work?", answer:[{id_tip:0, tip:"Follow these simple steps"},
+                                                    {id_tip:1, tip:"Once logged in, in the Products Section, click on any of the button labelled 'Add to Cart'."},
+                                                    {id_tip:2, tip:"A Cart representing the Product, its quantity and the corresponding price slides in to the 'Shopping Cart' section."},
+                                                    {id_tip:3, tip:"Subsequent clicks of the 'Add to the Cart' button adds to the quantity and updates the price of the selected product."},
+                                                    {id_tip:4, tip:"Clicking the 'Unpack' button reduces the quantity and updates the price. If the quantity is 0, the cart fades and slides out to show it has been discarded."},
+                                                    {id_tip:5, tip:"Similarly, in the 'Shopping Cart' section, clicking on any of the 'Delete' button zeroes the quantity and removes the cart from use."},
+                                                    {id_tip:6, tip:"In the 'Shopping Cart' section, as you add more items, scroll down to access all items in the 'Shopping Cart' section."},
+                                                    {id_tip:7, tip:"Below the 'Shopping Cart' section, is a brief summary of the total bill as well as the total number of items due for confirmation."},
+                                                    {id_tip:8, tip:"Clicking on the 'Confirm' button records and tabulates the current billing session as well as subsequent ones."}]},
+    {id:2, question:"How does MyBill secure purchase bills?", answer:[{id_tip:0, tip:"Either of the following works"},
+                                                                      {id_tip:1, tip:"On confirmation of the last billing session, take a snapshot of the 'Shopping Cart' section and present to the cashier at the point of payment as a copy of proof of bill."}]},
+    {id:3, question:"Some Brief Historical Facts", answer:[{id_tip:0, tip:"MyBill was first designed in 2024 by the React Development Library and Framework."}]},
+]
