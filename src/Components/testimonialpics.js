@@ -4,6 +4,7 @@ import pic3 from '../Components/TestimonialPics/picimg3.jpg'
 import pic4 from '../Components/TestimonialPics/picimg4.jpg'
 import pic5 from '../Components/TestimonialPics/picimg5.jpeg'
 import pic6 from '../Components/TestimonialPics/picimg1.jpg'
+import pic7 from '../Components/TestimonialPics/picimg1.jpg'
 
 export const testimonialpics = [
     {id:1, pic: pic1, desc:"It's a wonderful app and I'm sure the best is even yet to come!", author:"Carl Jens"},
